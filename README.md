@@ -1,6 +1,6 @@
 ## Credit Risk Classification
 
-Pyroyecto de clasficación de riesgo de crédito
+Pyroyecto de clasficación de riesgo de crédito consulta en el link https://share.streamlit.io/iserranoz/credit-risk/main/credit.py
 
 
 ### Estructura de la aplicación
