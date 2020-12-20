@@ -1,7 +1,7 @@
 import streamlit as st 
 import pandas as pd 
 import numpy as np
-
+from xgboost import XGBClassifier
 import plotly_express as px
 import plotly.graph_objs as go
 import seaborn as sns
