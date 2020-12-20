@@ -1,0 +1,11 @@
+﻿column,values
+Age,Numeric Age
+Sex ,Male and Female
+Job,0 = Unskilled and non-resident -- 1 = Unskilled and resident -- 2 = Skilled -- 3 = Highly skilled
+Housing,"Own, Rent or Free"
+Saving accounts,"Little, Moderate, Quite Rich, Rich"
+Checking account,Numeric Value 
+Credit amount,Numeric Value 
+Duration,Months
+Purpose,Car -- Furniture/equipment -- Radio/TV -- Domestic appliances --Repairs -- Education --Business -- Vacation/others
+Risk,Good or Bad
